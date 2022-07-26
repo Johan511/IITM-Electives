@@ -1,0 +1,3057 @@
+[{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bd7"
+  },
+  "courseCode": "AM5010",
+  "courseName": "Biomechanics",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bd8"
+  },
+  "courseCode": "AM5011",
+  "courseName": "Virtual Reality Engineering",
+  "courseSlot": "M",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bd9"
+  },
+  "courseCode": "AM5013",
+  "courseName": "Operating Theater Instrumentation and Surgical Technology",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bda"
+  },
+  "courseCode": "AM5016",
+  "courseName": "Numerical methods in Biomedical Engineering",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bdb"
+  },
+  "courseCode": "AM5030",
+  "courseName": "Linear Dynamical Systems",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bdc"
+  },
+  "courseCode": "AM5050",
+  "courseName": "Biomedical Sensors and Measurements",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bdd"
+  },
+  "courseCode": "AM5119",
+  "courseName": "Physiology for Engineers",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bde"
+  },
+  "courseCode": "AM5390",
+  "courseName": "Advanced Solid Mechanics",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bdf"
+  },
+  "courseCode": "AM5450",
+  "courseName": "Fundamentals of Finite Element Analysis",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93be0"
+  },
+  "courseCode": "AM5510",
+  "courseName": "Biomedical Signals and Systems",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93be1"
+  },
+  "courseCode": "AM5530",
+  "courseName": "Advanced Fluid Mechanics",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93be2"
+  },
+  "courseCode": "AM5600",
+  "courseName": "Computational Methods in Mechanics",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93be3"
+  },
+  "courseCode": "AM5630",
+  "courseName": "Foundation of Computational Fluid Dynamics",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93be4"
+  },
+  "courseCode": "AM5650",
+  "courseName": "Nonlinear Dynamics",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93be5"
+  },
+  "courseCode": "AM5810",
+  "courseName": "Computational Lab",
+  "courseSlot": "R",
+  "courseCredits": "6"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93be6"
+  },
+  "courseCode": "AS4600",
+  "courseName": "Project II",
+  "courseSlot": "ZZ",
+  "courseCredits": "14"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93be7"
+  },
+  "courseCode": "AS4600+",
+  "courseName": "Project I",
+  "courseSlot": "YY",
+  "courseCredits": "13"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93be8"
+  },
+  "courseCode": "AS5100",
+  "courseName": "Mini Project",
+  "courseSlot": "P",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93be9"
+  },
+  "courseCode": "AS5192",
+  "courseName": "DD Project",
+  "courseSlot": "XX",
+  "courseCredits": "27"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bea"
+  },
+  "courseCode": "AS5320",
+  "courseName": "Boundary Layer Theory",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93beb"
+  },
+  "courseCode": "AS5420",
+  "courseName": "Introduction to CFD",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bec"
+  },
+  "courseCode": "AS5435",
+  "courseName": "Waves in Fluids",
+  "courseSlot": "J1",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bed"
+  },
+  "courseCode": "AS5545",
+  "courseName": "Dynamics and Control of Spacecraft",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bee"
+  },
+  "courseCode": "AS5550",
+  "courseName": "Aerospace Systems Control and Estimation",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bef"
+  },
+  "courseCode": "AS5560",
+  "courseName": "Dynamical Systems Stability & Bifurcations",
+  "courseSlot": "J1",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bf0"
+  },
+  "courseCode": "AS5570",
+  "courseName": "Principles of Guidance for Autonomous Vehicles",
+  "courseSlot": "J1",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bf1"
+  },
+  "courseCode": "AS5580",
+  "courseName": "Pseudo-Spectral Methods for Optimal Control",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bf2"
+  },
+  "courseCode": "AS5690",
+  "courseName": "Radiation Heat Transfer",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bf3"
+  },
+  "courseCode": "AS5860",
+  "courseName": "Composite Structures",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bf4"
+  },
+  "courseCode": "AS5880",
+  "courseName": "Mechanics of Damage Tolerance",
+  "courseSlot": "K2",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bf5"
+  },
+  "courseCode": "AS6015",
+  "courseName": "Aerodynamics of Missiles and Launch Vehicles",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bf6"
+  },
+  "courseCode": "AS6342",
+  "courseName": "Spectroscopic Reactive Flow Diagnostics",
+  "courseSlot": "K2",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bf7"
+  },
+  "courseCode": "BT2012",
+  "courseName": "Genetics",
+  "courseSlot": "G",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bf8"
+  },
+  "courseCode": "BT2062",
+  "courseName": "Analytical Techniques in Biotechnology",
+  "courseSlot": "A",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bf9"
+  },
+  "courseCode": "BT3032",
+  "courseName": "Evolutionary Biology",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bfa"
+  },
+  "courseCode": "BT3051",
+  "courseName": "Data Structures and Algorithms for Biology",
+  "courseSlot": "E",
+  "courseCredits": "11"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bfb"
+  },
+  "courseCode": "BT3072",
+  "courseName": "Immunology",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bfc"
+  },
+  "courseCode": "BT4110",
+  "courseName": "Computational Biology Laboratory",
+  "courseSlot": "P",
+  "courseCredits": "6"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bfd"
+  },
+  "courseCode": "BT5011",
+  "courseName": "Biomaterials Engineering",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bfe"
+  },
+  "courseCode": "BT5031",
+  "courseName": "Thermodynamics in Biochemical Engineering",
+  "courseSlot": "D",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93bff"
+  },
+  "courseCode": "BT5051",
+  "courseName": "Transport Phenomena in Biological Systems",
+  "courseSlot": "A",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c00"
+  },
+  "courseCode": "BT5071",
+  "courseName": "Bioreactor Design and Analysis",
+  "courseSlot": "F",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c01"
+  },
+  "courseCode": "BT5111",
+  "courseName": "Bioprocess Engineering Lab 1",
+  "courseSlot": "S",
+  "courseCredits": "3"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c02"
+  },
+  "courseCode": "BT5130",
+  "courseName": "Tissue Engineering",
+  "courseSlot": "G",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c03"
+  },
+  "courseCode": "BT5330",
+  "courseName": "Human Physiology",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c04"
+  },
+  "courseCode": "BT5370",
+  "courseName": "Fermentation Technology",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c05"
+  },
+  "courseCode": "BT5420",
+  "courseName": "Computer Simulations of Biomolecular Systems",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c06"
+  },
+  "courseCode": "BT5460",
+  "courseName": "Biotechnology for Biofuels",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c07"
+  },
+  "courseCode": "BT6220",
+  "courseName": "Theoretical Biophysics",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c08"
+  },
+  "courseCode": "BT6270",
+  "courseName": "Computational Neuroscience",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c09"
+  },
+  "courseCode": "BT6290",
+  "courseName": "Molecular Basis of Diseases",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c0a"
+  },
+  "courseCode": "BT6320",
+  "courseName": "Protein Interactions: Computational Techniques",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c0b"
+  },
+  "courseCode": "BT6780",
+  "courseName": "Human Genetics",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c0c"
+  },
+  "courseCode": "BT7210",
+  "courseName": "Protein Structure and Functions",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c0d"
+  },
+  "courseCode": "CA5010",
+  "courseName": "Fundamentals of Adsorption and Catalysis",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c0e"
+  },
+  "courseCode": "CA5020",
+  "courseName": "Principles of Solids and Surfaces",
+  "courseSlot": "T",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c0f"
+  },
+  "courseCode": "CA5320",
+  "courseName": "Homogeneous Catalysis",
+  "courseSlot": "S",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c10"
+  },
+  "courseCode": "CA5350",
+  "courseName": "Catalysis in Petroleum Technology",
+  "courseSlot": "M",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c11"
+  },
+  "courseCode": "CA6120",
+  "courseName": "Photo-Catalysis",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c12"
+  },
+  "courseCode": "CE3310",
+  "courseName": "Advanced Structural Analysis",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c13"
+  },
+  "courseCode": "CE3320",
+  "courseName": "Design of steel structural systems",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c14"
+  },
+  "courseCode": "CE3510",
+  "courseName": "Ground Improvement",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c15"
+  },
+  "courseCode": "CE4050",
+  "courseName": "Under graduate Project I",
+  "courseSlot": "XX",
+  "courseCredits": "13"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c16"
+  },
+  "courseCode": "CE4670",
+  "courseName": "Case studies in Structural Engineering",
+  "courseSlot": "R",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c17"
+  },
+  "courseCode": "CE4720",
+  "courseName": "Computer Appls. in Traffic & Highway Engg",
+  "courseSlot": "L",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c18"
+  },
+  "courseCode": "CE4802",
+  "courseName": "Project - Odd semester",
+  "courseSlot": "XX",
+  "courseCredits": "20"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c19"
+  },
+  "courseCode": "CE5010",
+  "courseName": "Modern Construction Materials",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c1a"
+  },
+  "courseCode": "CE5012",
+  "courseName": "Structural Fire Engineering",
+  "courseSlot": "J",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c1b"
+  },
+  "courseCode": "CE5015",
+  "courseName": "Environmental Monitoring and Data Analysis",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c1c"
+  },
+  "courseCode": "CE5020",
+  "courseName": "Construction Planning and Control",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c1d"
+  },
+  "courseCode": "CE5026",
+  "courseName": "Design of Steel-Concrete Composite Structures",
+  "courseSlot": "K",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c1e"
+  },
+  "courseCode": "CE5110",
+  "courseName": "Building Services",
+  "courseSlot": "B",
+  "courseCredits": "11"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c1f"
+  },
+  "courseCode": "CE5120",
+  "courseName": "Maintenance and Rehabilitation of Constructed Facilities",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c20"
+  },
+  "courseCode": "CE5130",
+  "courseName": "Construction Quality and Safety Management",
+  "courseSlot": "D",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c21"
+  },
+  "courseCode": "CE5150",
+  "courseName": "Environmental Chemistry and Microbiology",
+  "courseSlot": "A",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c22"
+  },
+  "courseCode": "CE5170",
+  "courseName": "Physico-chemical Process for Water and Wastewater Treatment",
+  "courseSlot": "C",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c23"
+  },
+  "courseCode": "CE5235",
+  "courseName": "Understanding climate dynamics and its mysteries",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c24"
+  },
+  "courseCode": "CE5310",
+  "courseName": "Advanced Soil Mechanics",
+  "courseSlot": "A",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c25"
+  },
+  "courseCode": "CE5320",
+  "courseName": "Dynamics of soils and foundations",
+  "courseSlot": "D",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c26"
+  },
+  "courseCode": "CE5330",
+  "courseName": "Advanced Foundation Engineering",
+  "courseSlot": "B",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c27"
+  },
+  "courseCode": "CE5360",
+  "courseName": "Soil Exploration and Field Tests",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c28"
+  },
+  "courseCode": "CE5390",
+  "courseName": "Analytical Tech. in Transportation Engg",
+  "courseSlot": "M",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c29"
+  },
+  "courseCode": "CE5450",
+  "courseName": "Applied Hydraulic Engg",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c2a"
+  },
+  "courseCode": "CE5460",
+  "courseName": "Ground Water Engineering",
+  "courseSlot": "C",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c2b"
+  },
+  "courseCode": "CE5470",
+  "courseName": "Surface Water Hydrology",
+  "courseSlot": "D",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c2c"
+  },
+  "courseCode": "CE5530",
+  "courseName": "Pavement Materials",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c2d"
+  },
+  "courseCode": "CE5590",
+  "courseName": "Pavement Management System",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c2e"
+  },
+  "courseCode": "CE5610",
+  "courseName": "Finite Element Analysis",
+  "courseSlot": "A",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c2f"
+  },
+  "courseCode": "CE5620",
+  "courseName": "Structural Dynamics",
+  "courseSlot": "C",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c30"
+  },
+  "courseCode": "CE5630",
+  "courseName": "Advanced theory and design of concrete structures",
+  "courseSlot": "D",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c31"
+  },
+  "courseCode": "CE5710",
+  "courseName": "Prestressed concrete structures",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c32"
+  },
+  "courseCode": "CE5720",
+  "courseName": "Structural stability",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c33"
+  },
+  "courseCode": "CE5810",
+  "courseName": "Urban Transportation Planning",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c34"
+  },
+  "courseCode": "CE5815",
+  "courseName": "Introduction to Computational Geomechanics",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c35"
+  },
+  "courseCode": "CE5830",
+  "courseName": "Traffic Engg & Management",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c36"
+  },
+  "courseCode": "CE5870",
+  "courseName": "Infrastructure Planning and Management",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c37"
+  },
+  "courseCode": "CE5900",
+  "courseName": "Intelligent Transportation Systems",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c38"
+  },
+  "courseCode": "CE5971",
+  "courseName": "Aerosol Science and Technology",
+  "courseSlot": "K",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c39"
+  },
+  "courseCode": "CE6010",
+  "courseName": "Construction Contracts & Specifications",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c3a"
+  },
+  "courseCode": "CE6015",
+  "courseName": "Solid Waste Management",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c3b"
+  },
+  "courseCode": "CE6051",
+  "courseName": "Machine Learning in Civil Engineering",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c3c"
+  },
+  "courseCode": "CE6070",
+  "courseName": "Construction Project Modelling",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c3d"
+  },
+  "courseCode": "CE6330",
+  "courseName": "Rock Engineering",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c3e"
+  },
+  "courseCode": "CE6480",
+  "courseName": "Contaminant Transport Modelling",
+  "courseSlot": "J",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c3f"
+  },
+  "courseCode": "CE6760",
+  "courseName": "Structures for power plants",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c40"
+  },
+  "courseCode": "CE6780",
+  "courseName": "Advanced mechanics of structures",
+  "courseSlot": "B",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c41"
+  },
+  "courseCode": "CE6810",
+  "courseName": "Geometric Design of Highways",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c42"
+  },
+  "courseCode": "CE7016",
+  "courseName": "Nonlinear analysis of frame structures",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c43"
+  },
+  "courseCode": "CE7017",
+  "courseName": "Advanced Traffic Flow Theory",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c44"
+  },
+  "courseCode": "CE7710",
+  "courseName": "Advanced structural dynamics",
+  "courseSlot": "J",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c45"
+  },
+  "courseCode": "CE7720",
+  "courseName": "Structural reliability",
+  "courseSlot": "K",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c46"
+  },
+  "courseCode": "CH3150",
+  "courseName": "Renewable Energy Sources",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c47"
+  },
+  "courseCode": "CH3170",
+  "courseName": "Ecological Engineering",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c48"
+  },
+  "courseCode": "CH4030",
+  "courseName": "Process Control Lab",
+  "courseSlot": "P",
+  "courseCredits": "5"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c49"
+  },
+  "courseCode": "CH4030",
+  "courseName": "Process Control Lab",
+  "courseSlot": "Q",
+  "courseCredits": "5"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c4a"
+  },
+  "courseCode": "CH5013",
+  "courseName": "Principles of Fuel Cells",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c4b"
+  },
+  "courseCode": "CH5014",
+  "courseName": "Interfacial Science and Engineering",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c4c"
+  },
+  "courseCode": "CH5015",
+  "courseName": "Process Safety",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c4d"
+  },
+  "courseCode": "CH5018",
+  "courseName": "Biomass Conversion Processes and Analysis",
+  "courseSlot": "L",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c4e"
+  },
+  "courseCode": "CH5020",
+  "courseName": "Statistical Design and Analysis of Experiments",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c4f"
+  },
+  "courseCode": "CH5022",
+  "courseName": "Solar Photoelectrochemistry",
+  "courseSlot": "T",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c50"
+  },
+  "courseCode": "CH5090",
+  "courseName": "Bioprocess Engineering",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c51"
+  },
+  "courseCode": "CH5115",
+  "courseName": "Parameter and State Estimation",
+  "courseSlot": "F",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c52"
+  },
+  "courseCode": "CH5120",
+  "courseName": "Modern Control Theory",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c53"
+  },
+  "courseCode": "CH5140",
+  "courseName": "Process Modelling Simulation and Analysis",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c54"
+  },
+  "courseCode": "CH5190",
+  "courseName": "Introduction of Macromolecules",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c55"
+  },
+  "courseCode": "CH6060",
+  "courseName": "Numerical Tech for Engrs",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c56"
+  },
+  "courseCode": "CH6110",
+  "courseName": "Finite Element Methods in Engg",
+  "courseSlot": "M",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c57"
+  },
+  "courseCode": "CH6260",
+  "courseName": "Carbon Capture and Sequestration",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c58"
+  },
+  "courseCode": "CS2300",
+  "courseName": "Foundations of Computer Systems Design",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c59"
+  },
+  "courseCode": "CS2310",
+  "courseName": "Foundations of Computer Systems Design Lab",
+  "courseSlot": "Q",
+  "courseCredits": "4"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c5a"
+  },
+  "courseCode": "CS2700",
+  "courseName": "Programming and Data Structures",
+  "courseSlot": "C",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c5b"
+  },
+  "courseCode": "CS2705",
+  "courseName": "Programming and Data Structures",
+  "courseSlot": "C",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c5c"
+  },
+  "courseCode": "CS2710",
+  "courseName": "Programming and Data Structures Lab",
+  "courseSlot": "R",
+  "courseCredits": "6"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c5d"
+  },
+  "courseCode": "CS3100",
+  "courseName": "Paradigms of Programming",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c5e"
+  },
+  "courseCode": "CS3300",
+  "courseName": "Compiler Design",
+  "courseSlot": "B",
+  "courseCredits": "15"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c5f"
+  },
+  "courseCode": "CS3500",
+  "courseName": "Operating Systems",
+  "courseSlot": "D",
+  "courseCredits": "15"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c60"
+  },
+  "courseCode": "CS3700",
+  "courseName": "Introduction to Database Systems",
+  "courseSlot": "C",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c61"
+  },
+  "courseCode": "CS4900",
+  "courseName": "Undergraduate Research in Computer Science - I",
+  "courseSlot": "XX",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c62"
+  },
+  "courseCode": "CS4910",
+  "courseName": "Undergraduate Research in Computer Science - II",
+  "courseSlot": "YY",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c63"
+  },
+  "courseCode": "CS5020",
+  "courseName": "Nonlinear optimisation: Theory and algorithms",
+  "courseSlot": "J",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c64"
+  },
+  "courseCode": "CS5130",
+  "courseName": "Mathematical Tools for Theoretical Computer Science",
+  "courseSlot": "J",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c65"
+  },
+  "courseCode": "CS5691",
+  "courseName": "Pattern Recognition and Machine Learning",
+  "courseSlot": "F",
+  "courseCredits": "15"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c66"
+  },
+  "courseCode": "CS6014",
+  "courseName": "Computability and Complexity",
+  "courseSlot": "A",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c67"
+  },
+  "courseCode": "CS6111",
+  "courseName": "Foundations of cryptography",
+  "courseSlot": "K",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c68"
+  },
+  "courseCode": "CS6120",
+  "courseName": "Wireless Communication and Networks",
+  "courseSlot": "J",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c69"
+  },
+  "courseCode": "CS6170",
+  "courseName": "Randomized Algorithms",
+  "courseSlot": "G",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c6a"
+  },
+  "courseCode": "CS6230",
+  "courseName": "CAD for VLSI Systems",
+  "courseSlot": "J",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c6b"
+  },
+  "courseCode": "CS6240",
+  "courseName": "Structural Graph Theory",
+  "courseSlot": "K",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98338a0caa0c7c93c6c"
+  },
+  "courseCode": "CS6251",
+  "courseName": "Computational Models of Cognition",
+  "courseSlot": "E",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c6d"
+  },
+  "courseCode": "CS6350",
+  "courseName": "Computer Vision",
+  "courseSlot": "B",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c6e"
+  },
+  "courseCode": "CS6380",
+  "courseName": "Artificial Intelligence",
+  "courseSlot": "A",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c6f"
+  },
+  "courseCode": "CS6600",
+  "courseName": "Computer Architecture",
+  "courseSlot": "E",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c70"
+  },
+  "courseCode": "CS6630",
+  "courseName": "Secure Processor Microarchitecture",
+  "courseSlot": "A",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c71"
+  },
+  "courseCode": "CS6691",
+  "courseName": "Deployability Aspects of Machine Learning",
+  "courseSlot": "A",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c72"
+  },
+  "courseCode": "CS6842",
+  "courseName": "Algorithmic Algebra",
+  "courseSlot": "F",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c73"
+  },
+  "courseCode": "CS6846",
+  "courseName": "Quantum Algorithms and Quantum Complexity",
+  "courseSlot": "J",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c74"
+  },
+  "courseCode": "CS7011",
+  "courseName": "Topics in Reinforcement Learning",
+  "courseSlot": "J",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c75"
+  },
+  "courseCode": "CS8852",
+  "courseName": "Topics in Semantic Web",
+  "courseSlot": "G",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c76"
+  },
+  "courseCode": "CY1002",
+  "courseName": "Chemistry Lab I",
+  "courseSlot": "P2",
+  "courseCredits": "3"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c77"
+  },
+  "courseCode": "ED1090",
+  "courseName": "German I",
+  "courseSlot": "P",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c78"
+  },
+  "courseCode": "ED1091",
+  "courseName": "Japanese Language",
+  "courseSlot": "P",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c79"
+  },
+  "courseCode": "ED1092",
+  "courseName": "Japanese Language II",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c7a"
+  },
+  "courseCode": "ED5011",
+  "courseName": "Energy Storage Devices and Systems",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c7b"
+  },
+  "courseCode": "ED5311",
+  "courseName": "Medical Device Innovation",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c7c"
+  },
+  "courseCode": "ED5314",
+  "courseName": "Design, Analysis and Control of Robot Manipulators",
+  "courseSlot": "K",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c7d"
+  },
+  "courseCode": "ED5315",
+  "courseName": "Introduction to Field and Service Robotics",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c7e"
+  },
+  "courseCode": "ED5317",
+  "courseName": "Strategies for Managing innovation",
+  "courseSlot": "M",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c7f"
+  },
+  "courseCode": "ED5340",
+  "courseName": "Data Science: Theory and practice",
+  "courseSlot": "F",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c80"
+  },
+  "courseCode": "ED6002",
+  "courseName": "Optimization methods in Engineering Design",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c81"
+  },
+  "courseCode": "ED6007",
+  "courseName": "Mechanics and Control of Serial Robots",
+  "courseSlot": "H",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c82"
+  },
+  "courseCode": "EE1103",
+  "courseName": "Numerical Methods",
+  "courseSlot": "A1",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c83"
+  },
+  "courseCode": "EE2003",
+  "courseName": "Computer Organization",
+  "courseSlot": "C",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c84"
+  },
+  "courseCode": "EE3002",
+  "courseName": "Analog Circuits",
+  "courseSlot": "E",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c85"
+  },
+  "courseCode": "EE3003",
+  "courseName": "Power Systems",
+  "courseSlot": "H",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c86"
+  },
+  "courseCode": "EE3004",
+  "courseName": "Control Engineering",
+  "courseSlot": "D",
+  "courseCredits": "11"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c87"
+  },
+  "courseCode": "EE3110",
+  "courseName": "Probability Foundations for Electrical Engineers",
+  "courseSlot": "A",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c88"
+  },
+  "courseCode": "EE3313",
+  "courseName": "Device Modelling",
+  "courseSlot": "G",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c89"
+  },
+  "courseCode": "EE4140",
+  "courseName": "Digital Communication Systems",
+  "courseSlot": "B",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c8a"
+  },
+  "courseCode": "EE4348",
+  "courseName": "Quantum Electronics and Lasers",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c8b"
+  },
+  "courseCode": "EE4371",
+  "courseName": "Introduction to Data Structures and Algorithms",
+  "courseSlot": "T",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c8c"
+  },
+  "courseCode": "EE4502",
+  "courseName": "Optics for Engineers",
+  "courseSlot": "G",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c8d"
+  },
+  "courseCode": "EE4901",
+  "courseName": "Mini Project 1",
+  "courseSlot": "XX",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c8e"
+  },
+  "courseCode": "EE4902",
+  "courseName": "Mini Project 2",
+  "courseSlot": "XX",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c8f"
+  },
+  "courseCode": "EE5011",
+  "courseName": "Computer Methods in Electrical Engineering",
+  "courseSlot": "G",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c90"
+  },
+  "courseCode": "EE5120",
+  "courseName": "Applied Linear Algebra I for EE",
+  "courseSlot": "J",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c91"
+  },
+  "courseCode": "EE5121",
+  "courseName": "Convex Optimization",
+  "courseSlot": "F",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c92"
+  },
+  "courseCode": "EE5151",
+  "courseName": "Communication Techniques",
+  "courseSlot": "E",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c93"
+  },
+  "courseCode": "EE5178",
+  "courseName": "Modern Computer Vision",
+  "courseSlot": "B",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c94"
+  },
+  "courseCode": "EE5179",
+  "courseName": "Deep Learning for Imaging",
+  "courseSlot": "G",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c95"
+  },
+  "courseCode": "EE5180",
+  "courseName": "Introduction to Machine Learning",
+  "courseSlot": "K",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c96"
+  },
+  "courseCode": "EE5200",
+  "courseName": "Power Converter Analysis and Design",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c97"
+  },
+  "courseCode": "EE5201",
+  "courseName": "Modelling and Analysis of Electric Machines",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c98"
+  },
+  "courseCode": "EE5212",
+  "courseName": "Digital Controller for power Applications",
+  "courseSlot": "R",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c99"
+  },
+  "courseCode": "EE5253",
+  "courseName": "Computer Methods in Power Systems Analysis",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c9a"
+  },
+  "courseCode": "EE5311",
+  "courseName": "Digital IC Design",
+  "courseSlot": "G",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c9b"
+  },
+  "courseCode": "EE5312",
+  "courseName": "VLSI Technology",
+  "courseSlot": "B",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c9c"
+  },
+  "courseCode": "EE5325",
+  "courseName": "Power Management Integrated Circuits",
+  "courseSlot": "F",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c9d"
+  },
+  "courseCode": "EE5343",
+  "courseName": "Solar Cell Device Physics and Materials Technology",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c9e"
+  },
+  "courseCode": "EE5346",
+  "courseName": "Introduction to Plastic Electronics",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93c9f"
+  },
+  "courseCode": "EE5347",
+  "courseName": "Quantum Photonics Devices and Technology",
+  "courseSlot": "F",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ca0"
+  },
+  "courseCode": "EE5411",
+  "courseName": "Synthesis of Control Systems",
+  "courseSlot": "D",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ca1"
+  },
+  "courseCode": "EE5413",
+  "courseName": "Linear Dynamical Systems",
+  "courseSlot": "C",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ca2"
+  },
+  "courseCode": "EE6010",
+  "courseName": "Smart Power Grids",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ca3"
+  },
+  "courseCode": "EE6110",
+  "courseName": "Adaptive Signal Processing",
+  "courseSlot": "A",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ca4"
+  },
+  "courseCode": "EE6133",
+  "courseName": "Multirate Digital Signal Processing",
+  "courseSlot": "M",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ca5"
+  },
+  "courseCode": "EE6143",
+  "courseName": "Advanced Topics in Communications",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ca6"
+  },
+  "courseCode": "EE6200",
+  "courseName": "Power Electronic Control of Electric Machines",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ca7"
+  },
+  "courseCode": "EE6203",
+  "courseName": "Power Electronic System Design",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ca8"
+  },
+  "courseCode": "EE6254",
+  "courseName": "Advanced Topics in Electrical Insulation",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ca9"
+  },
+  "courseCode": "EE6323",
+  "courseName": "Wireless System Design",
+  "courseSlot": "Q",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93caa"
+  },
+  "courseCode": "EE6347",
+  "courseName": "Devices and technologies for AI and neuromorphic computing",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cab"
+  },
+  "courseCode": "EE6432",
+  "courseName": "Stochastic Control",
+  "courseSlot": "J",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cac"
+  },
+  "courseCode": "EE6506",
+  "courseName": "Computational Electrogmagnetics",
+  "courseSlot": "D",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cad"
+  },
+  "courseCode": "EE6902",
+  "courseName": "M.Tech Project 2",
+  "courseSlot": "XX",
+  "courseCredits": "30"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cae"
+  },
+  "courseCode": "EE8007",
+  "courseName": "GIAN :Microwave Photonics- Technologies, Systems and Networks",
+  "courseSlot": "L",
+  "courseCredits": "6"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93caf"
+  },
+  "courseCode": "EP2100",
+  "courseName": "Introduction to Engineering Optics",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cb0"
+  },
+  "courseCode": "EP2102",
+  "courseName": "Classical Dynamics",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cb1"
+  },
+  "courseCode": "EP2110",
+  "courseName": "Introduction to Mathematical Physics",
+  "courseSlot": "B",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cb2"
+  },
+  "courseCode": "EP3200",
+  "courseName": "Photonics",
+  "courseSlot": "G",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cb3"
+  },
+  "courseCode": "GN5001",
+  "courseName": "Self-awareness",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cb4"
+  },
+  "courseCode": "HS1080",
+  "courseName": "Korean I",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cb5"
+  },
+  "courseCode": "HS1080A",
+  "courseName": "Korean I",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cb6"
+  },
+  "courseCode": "HS1090",
+  "courseName": "German I",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cb7"
+  },
+  "courseCode": "HS1110",
+  "courseName": "French I",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cb8"
+  },
+  "courseCode": "HS2050",
+  "courseName": "Sci Fiction:An Appreciation",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cb9"
+  },
+  "courseCode": "HS3002",
+  "courseName": "Principles of Economics",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cba"
+  },
+  "courseCode": "HS3002A",
+  "courseName": "Principles of Economics",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cbb"
+  },
+  "courseCode": "HS3002B",
+  "courseName": "Principles of Economics",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cbc"
+  },
+  "courseCode": "HS3002C",
+  "courseName": "Principles of Economics",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cbd"
+  },
+  "courseCode": "HS3002D",
+  "courseName": "Principles of Economics",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cbe"
+  },
+  "courseCode": "HS3011",
+  "courseName": "The Rise of the Novel",
+  "courseSlot": "J",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cbf"
+  },
+  "courseCode": "HS3012",
+  "courseName": "Urbanization and Development",
+  "courseSlot": "T",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cc0"
+  },
+  "courseCode": "HS3013",
+  "courseName": "Human Rights and Justice",
+  "courseSlot": "E",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cc1"
+  },
+  "courseCode": "HS3013A",
+  "courseName": "Human Rights and Justice",
+  "courseSlot": "F",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cc2"
+  },
+  "courseCode": "HS3014",
+  "courseName": "Statistics",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cc3"
+  },
+  "courseCode": "HS3016",
+  "courseName": "Development Theory and Practice",
+  "courseSlot": "H",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cc4"
+  },
+  "courseCode": "HS3017",
+  "courseName": "Introduction to Linguistics",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cc5"
+  },
+  "courseCode": "HS3028",
+  "courseName": "Language and Society in India",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cc6"
+  },
+  "courseCode": "HS3180",
+  "courseName": "Decentralization and Governance",
+  "courseSlot": "J",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cc7"
+  },
+  "courseCode": "HS3230",
+  "courseName": "History of English Language & Literature",
+  "courseSlot": "C",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cc8"
+  },
+  "courseCode": "HS3250",
+  "courseName": "Chaucer, Milton and the Bible",
+  "courseSlot": "M",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cc9"
+  },
+  "courseCode": "HS3260",
+  "courseName": "Literary Criticism",
+  "courseSlot": "E",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cca"
+  },
+  "courseCode": "HS3410",
+  "courseName": "Modern Science in India",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ccb"
+  },
+  "courseCode": "HS3420",
+  "courseName": "China in Contemporary Global Politics",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ccc"
+  },
+  "courseCode": "HS4007",
+  "courseName": "Computational Economics and Public Policy",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ccd"
+  },
+  "courseCode": "HS4011",
+  "courseName": "Econometrics",
+  "courseSlot": "B",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cce"
+  },
+  "courseCode": "HS4012",
+  "courseName": "Built Environment and Society",
+  "courseSlot": "H",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ccf"
+  },
+  "courseCode": "HS4013",
+  "courseName": "Gender and Development",
+  "courseSlot": "G",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cd0"
+  },
+  "courseCode": "HS4014",
+  "courseName": "State and Development",
+  "courseSlot": "E",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cd1"
+  },
+  "courseCode": "HS4180",
+  "courseName": "Readings in German Literature and Culture",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cd2"
+  },
+  "courseCode": "HS4350",
+  "courseName": "Contemporary Issues in Development",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cd3"
+  },
+  "courseCode": "HS4420",
+  "courseName": "Technology & Development",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cd4"
+  },
+  "courseCode": "HS4570",
+  "courseName": "Gandhian Thought",
+  "courseSlot": "F",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cd5"
+  },
+  "courseCode": "HS4571",
+  "courseName": "Introduction to Chinese Language",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cd6"
+  },
+  "courseCode": "HS4572",
+  "courseName": "Chinese Language II",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cd7"
+  },
+  "courseCode": "HS4580",
+  "courseName": "Sanskrit for Yoga",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cd8"
+  },
+  "courseCode": "HS4850",
+  "courseName": "Astronomy in India",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cd9"
+  },
+  "courseCode": "HS4870",
+  "courseName": "Climate Economics",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cda"
+  },
+  "courseCode": "HS5140",
+  "courseName": "Transitions and Transformations to Sustainability",
+  "courseSlot": "F",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cdb"
+  },
+  "courseCode": "HS5340",
+  "courseName": "Money, Banking and Financial Markets",
+  "courseSlot": "L",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cdc"
+  },
+  "courseCode": "HS5610",
+  "courseName": "Poetry",
+  "courseSlot": "C",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cdd"
+  },
+  "courseCode": "HS5640",
+  "courseName": "Advanced Linguistics",
+  "courseSlot": "B",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cde"
+  },
+  "courseCode": "HS5650",
+  "courseName": "Drama",
+  "courseSlot": "F",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cdf"
+  },
+  "courseCode": "HS5680",
+  "courseName": "Contemporary Literary Theory",
+  "courseSlot": "A",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ce0"
+  },
+  "courseCode": "HS5712",
+  "courseName": "Advanced Topics in Economic Development",
+  "courseSlot": "H",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ce1"
+  },
+  "courseCode": "HS5812",
+  "courseName": "Feminist Writing",
+  "courseSlot": "A",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ce2"
+  },
+  "courseCode": "HS5813",
+  "courseName": "Post Colonial & New Writings",
+  "courseSlot": "H",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ce3"
+  },
+  "courseCode": "HS6160",
+  "courseName": "The Literature of Environmental Justice",
+  "courseSlot": "D",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ce4"
+  },
+  "courseCode": "HS6560",
+  "courseName": "Introduction to Contemporary Tibet",
+  "courseSlot": "D",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ce5"
+  },
+  "courseCode": "HS6730",
+  "courseName": "Economics of Healthcare",
+  "courseSlot": "D",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ce6"
+  },
+  "courseCode": "ID5020",
+  "courseName": "Multi Body Dynamics & Applications",
+  "courseSlot": "J",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ce7"
+  },
+  "courseCode": "ID5080",
+  "courseName": "Complex Networks",
+  "courseSlot": "J",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ce8"
+  },
+  "courseCode": "ID5500",
+  "courseName": "Battery Technology",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ce9"
+  },
+  "courseCode": "ID6010",
+  "courseName": "Constitutive Modelling in Continuum Mechanics",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cea"
+  },
+  "courseCode": "ID6015",
+  "courseName": "Advances in Machine Learning Solutions for Engineering Problems",
+  "courseSlot": "F",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ceb"
+  },
+  "courseCode": "ID6090",
+  "courseName": "Composite materials and manufacturing",
+  "courseSlot": "S",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cec"
+  },
+  "courseCode": "ID6102",
+  "courseName": "Principles and techniques of Transmission Electron Microscopy",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93ced"
+  },
+  "courseCode": "MA2010",
+  "courseName": "Complex Variables",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cee"
+  },
+  "courseCode": "MA2020",
+  "courseName": "Differential Equations",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cef"
+  },
+  "courseCode": "MA2031",
+  "courseName": "Linear Algebra for Engineers",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cf0"
+  },
+  "courseCode": "MA2040",
+  "courseName": "Probability, Statistics and Stochastic Process",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cf1"
+  },
+  "courseCode": "MA5014",
+  "courseName": "Applied Stochastic Processes",
+  "courseSlot": "J",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cf2"
+  },
+  "courseCode": "MA5310",
+  "courseName": "Linear Algebra",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cf3"
+  },
+  "courseCode": "MA5315",
+  "courseName": "Differential Topology",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cf4"
+  },
+  "courseCode": "MA5320",
+  "courseName": "Algebra I",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cf5"
+  },
+  "courseCode": "MA5330",
+  "courseName": "Real Analysis",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cf6"
+  },
+  "courseCode": "MA5370",
+  "courseName": "Multivariable Calculus",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cf7"
+  },
+  "courseCode": "MA5390",
+  "courseName": "Ordinary Differential Equations",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cf8"
+  },
+  "courseCode": "MA5400",
+  "courseName": "Probability Theory",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cf9"
+  },
+  "courseCode": "MA5430",
+  "courseName": "Algebra II Ring Theory & Field Theory",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cfa"
+  },
+  "courseCode": "MA5460",
+  "courseName": "Transform Techniques",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cfb"
+  },
+  "courseCode": "MA5710",
+  "courseName": "Mathematical Modelling in Industry",
+  "courseSlot": "F",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cfc"
+  },
+  "courseCode": "MA5741",
+  "courseName": "Object Oriented Programming",
+  "courseSlot": "G",
+  "courseCredits": "7"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cfd"
+  },
+  "courseCode": "MA5750",
+  "courseName": "Applied Statistics",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cfe"
+  },
+  "courseCode": "MA5890",
+  "courseName": "Numerical Linear Algebra",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93cff"
+  },
+  "courseCode": "MA5892",
+  "courseName": "Numerical Methods & Scientific Computing",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d00"
+  },
+  "courseCode": "MA6080",
+  "courseName": "Fourier Analysis",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d01"
+  },
+  "courseCode": "MA6120",
+  "courseName": "Advanced Complex Analysis",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d02"
+  },
+  "courseCode": "MA6190",
+  "courseName": "Mathematical Logic",
+  "courseSlot": "J",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d03"
+  },
+  "courseCode": "MA6470",
+  "courseName": "Commutative Algebra",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d04"
+  },
+  "courseCode": "MA6480",
+  "courseName": "Galois Theory",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d05"
+  },
+  "courseCode": "ME4490",
+  "courseName": "B.Tech. Project",
+  "courseSlot": "X",
+  "courseCredits": "27"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d06"
+  },
+  "courseCode": "ME5001",
+  "courseName": "Prognostics and Health Management of Machine Tools",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d07"
+  },
+  "courseCode": "ME5012",
+  "courseName": "Metal forming analysis and tool design",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d08"
+  },
+  "courseCode": "ME5109",
+  "courseName": "Measurement in Thermal Engg",
+  "courseSlot": "E",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d09"
+  },
+  "courseCode": "ME5129",
+  "courseName": "Principles of Thermal Energy Conversion",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d0a"
+  },
+  "courseCode": "ME5130",
+  "courseName": "Principles of Turbomachinery",
+  "courseSlot": "K",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d0b"
+  },
+  "courseCode": "ME5203",
+  "courseName": "Advanced Mechanics of Solids",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d0c"
+  },
+  "courseCode": "ME5590",
+  "courseName": "Decarbonisation technologies",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d0d"
+  },
+  "courseCode": "ME6005",
+  "courseName": "Solar Energy For Process Heat & Power Generation",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d0e"
+  },
+  "courseCode": "ME6060",
+  "courseName": "Fundamentals of Combustion",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d0f"
+  },
+  "courseCode": "ME6146",
+  "courseName": "Utilisation of Solar Energy",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d10"
+  },
+  "courseCode": "ME6154",
+  "courseName": "Design & Optimisation of Energy Systems",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d11"
+  },
+  "courseCode": "ME6225",
+  "courseName": "Failure Analysis and Design",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d12"
+  },
+  "courseCode": "ME6227",
+  "courseName": "Variational Principles in Mechanics",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d13"
+  },
+  "courseCode": "ME6321",
+  "courseName": "Robotics and Robot Applications",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d14"
+  },
+  "courseCode": "ME6324",
+  "courseName": "Artificial Intelligence in Mfg.",
+  "courseSlot": "K",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d15"
+  },
+  "courseCode": "ME6345",
+  "courseName": "Solid Freeform Manufacturing",
+  "courseSlot": "J",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d16"
+  },
+  "courseCode": "ME7223",
+  "courseName": "Optimization Methods for Mechanical Design",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d17"
+  },
+  "courseCode": "ME7224",
+  "courseName": "Modal Analysis of Mechanical Systems",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d18"
+  },
+  "courseCode": "MM2010",
+  "courseName": "Principles of Physical Metallurgy",
+  "courseSlot": "C",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d19"
+  },
+  "courseCode": "MM2013",
+  "courseName": "Structure of Materials",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d1a"
+  },
+  "courseCode": "MM2015",
+  "courseName": "Thermodynamics of Materials",
+  "courseSlot": "D",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d1b"
+  },
+  "courseCode": "MM2080",
+  "courseName": "Principles of Extractive Metallurgy",
+  "courseSlot": "C",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d1c"
+  },
+  "courseCode": "MM3010",
+  "courseName": "Physics of Materials",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d1d"
+  },
+  "courseCode": "MM3014",
+  "courseName": "Undergraduate Research in Materials - 1",
+  "courseSlot": "ZZ",
+  "courseCredits": "5"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d1e"
+  },
+  "courseCode": "MM3030",
+  "courseName": "Materials Characterization",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d1f"
+  },
+  "courseCode": "MM3090",
+  "courseName": "Environmental Degradation of Materials",
+  "courseSlot": "E",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d20"
+  },
+  "courseCode": "MM3110",
+  "courseName": "Computational Materials Engineering Lab",
+  "courseSlot": "S",
+  "courseCredits": "5"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d21"
+  },
+  "courseCode": "MM3330",
+  "courseName": "Non-Metallic Materials",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d22"
+  },
+  "courseCode": "MM4030",
+  "courseName": "Undergraduate Research in Materials - 2",
+  "courseSlot": "YY",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d23"
+  },
+  "courseCode": "MM4110",
+  "courseName": "Project I",
+  "courseSlot": "XX",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d24"
+  },
+  "courseCode": "MM5001",
+  "courseName": "Composite Materials",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d25"
+  },
+  "courseCode": "MM5003",
+  "courseName": "Atomistic Modeling of Materials",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d26"
+  },
+  "courseCode": "MM5010",
+  "courseName": "Advanced Engg. Materials",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d27"
+  },
+  "courseCode": "MM5012",
+  "courseName": "Welding Processes",
+  "courseSlot": "L",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d28"
+  },
+  "courseCode": "MM5017",
+  "courseName": "Electronic materials, devices, and fabrication",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d29"
+  },
+  "courseCode": "MM5024",
+  "courseName": "Numerical Methods for Metallurgists",
+  "courseSlot": "C",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d2a"
+  },
+  "courseCode": "MM5025",
+  "courseName": "Physical Metallurgy of Ferrous Alloys",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d2b"
+  },
+  "courseCode": "MM5028",
+  "courseName": "Advanced Materials Characterisation Lab",
+  "courseSlot": "S",
+  "courseCredits": "3"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d2c"
+  },
+  "courseCode": "MM5210",
+  "courseName": "X-Ray Diffraction Techniques",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d2d"
+  },
+  "courseCode": "MM5250",
+  "courseName": "Additive Manufacturing",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d2e"
+  },
+  "courseCode": "MM5330",
+  "courseName": "Surface Degradation Process",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d2f"
+  },
+  "courseCode": "MM5630",
+  "courseName": "Plasticity & Plastic Deformation",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d30"
+  },
+  "courseCode": "MM5700",
+  "courseName": "Topics in Nanomaterials",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d31"
+  },
+  "courseCode": "MM5740",
+  "courseName": "Welding Metallurgy",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d32"
+  },
+  "courseCode": "MM5760",
+  "courseName": "Advanced Topics in Metal Joining",
+  "courseSlot": "J",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d33"
+  },
+  "courseCode": "MM6023",
+  "courseName": "Advanced Transmission Electron Microscopy",
+  "courseSlot": "K",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d34"
+  },
+  "courseCode": "MS3510",
+  "courseName": "Fundamentals of Operations Research",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d35"
+  },
+  "courseCode": "MS3520",
+  "courseName": "Operations Management I",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d36"
+  },
+  "courseCode": "MS3610",
+  "courseName": "Accounting and Finance for Engineers",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d37"
+  },
+  "courseCode": "MS4610",
+  "courseName": "Introduction to Data Analytics",
+  "courseSlot": "E",
+  "courseCredits": "12"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d38"
+  },
+  "courseCode": "NE6310",
+  "courseName": "Advanced Non-destructive Evaluation",
+  "courseSlot": "R",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d39"
+  },
+  "courseCode": "OE1100",
+  "courseName": "Modern scientific computing in programming language",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d3a"
+  },
+  "courseCode": "OE4080",
+  "courseName": "Analysis and Design Tools in Marine Hydrodynamics",
+  "courseSlot": "H",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d3b"
+  },
+  "courseCode": "OE4300",
+  "courseName": "Ocean Energy",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d3c"
+  },
+  "courseCode": "OE4600",
+  "courseName": "Advanced Ship Hydrodynamics",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d3d"
+  },
+  "courseCode": "OE5002",
+  "courseName": "Phased Array Systems : Design and Analysis",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d3e"
+  },
+  "courseCode": "OE5010",
+  "courseName": "Oceanography",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d3f"
+  },
+  "courseCode": "OE5012",
+  "courseName": "Deep Sea Technology",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d40"
+  },
+  "courseCode": "OE5030",
+  "courseName": "Wave Hydrodynamics",
+  "courseSlot": "B",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d41"
+  },
+  "courseCode": "OE5050",
+  "courseName": "Ocean Structures & Materials",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d42"
+  },
+  "courseCode": "OE5070",
+  "courseName": "Statics and Dynamics of Marine Vehicle",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d43"
+  },
+  "courseCode": "OE5110",
+  "courseName": "Experimental Methods & Measurements",
+  "courseSlot": "D",
+  "courseCredits": "11"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d44"
+  },
+  "courseCode": "OE5200",
+  "courseName": "Dynamics of Ocean Structures",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d45"
+  },
+  "courseCode": "OE5310",
+  "courseName": "Guidance & Control of Marine Vehicles",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d46"
+  },
+  "courseCode": "OE5320",
+  "courseName": "Nonlinear Problems in Ocean Engineering",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d47"
+  },
+  "courseCode": "OE5330",
+  "courseName": "Advanced Marine Structures",
+  "courseSlot": "G",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d48"
+  },
+  "courseCode": "OE5372",
+  "courseName": "Naval Architecture and Ocean Engineering DD Project - Phase II",
+  "courseSlot": "XX",
+  "courseCredits": "20"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d49"
+  },
+  "courseCode": "OE5510",
+  "courseName": "Machine Learning for Ocean Engineers",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d4a"
+  },
+  "courseCode": "OE6002",
+  "courseName": "Installation of Offshore Structures",
+  "courseSlot": "F",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d4b"
+  },
+  "courseCode": "OE6020",
+  "courseName": "Meshfree methods applied to hydrodynamics",
+  "courseSlot": "G",
+  "courseCredits": "11"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d4c"
+  },
+  "courseCode": "OE6200",
+  "courseName": "Design of Offshore Structures",
+  "courseSlot": "C",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d4d"
+  },
+  "courseCode": "OE6930",
+  "courseName": "Modeling of Offshore and Coastal Processes",
+  "courseSlot": "G",
+  "courseCredits": "11"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d4e"
+  },
+  "courseCode": "OE6980",
+  "courseName": "Comp. Aid. Surface Dev. for Marine Vehicles",
+  "courseSlot": "G",
+  "courseCredits": "11"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d4f"
+  },
+  "courseCode": "PE5011",
+  "courseName": "Geomechanics applied to Offshore Petroleum Exploration and Production",
+  "courseSlot": "C",
+  "courseCredits": "10"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d50"
+  },
+  "courseCode": "PE5040",
+  "courseName": "Surface Facilities for Oil and Gas Handling",
+  "courseSlot": "E",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d51"
+  },
+  "courseCode": "PE5050",
+  "courseName": "Offshore Drilling and Well Completion",
+  "courseSlot": "B",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d52"
+  },
+  "courseCode": "PE6030",
+  "courseName": "Reservoir Engineering",
+  "courseSlot": "D",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d53"
+  },
+  "courseCode": "PE6050",
+  "courseName": "Exploration and Formation evaluation of oil and gas reservoirs",
+  "courseSlot": "A",
+  "courseCredits": "9"
+},{
+  "_id": {
+    "$oid": "625ea98438a0caa0c7c93d54"
+  },
+  "courseCode": "PH3500",
+  "courseName": "Classical Physics",
+  "courseSlot": "G",
+  "courseCredits": "9"
+}]
